@@ -3,7 +3,8 @@
 This repository contains the design files and documentation for a **custom six-layer PCB** powered by the **ESP32-S3 microcontroller**. The board is designed for advanced **audio-visual applications** with HUB75 LED matrix displays, audio playback, and modern USB-C integration—all packed into a compact, highly optimized board.
 
 ---
-<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.19_8cd49088.jpg"... -->
+![WhatsApp Image 2025-05-14 at 12 16 19_8cd49088](https://github.com/user-attachments/assets/424b2733-f192-4898-a5d7-8787c9d5d521)
+
 
 ## 🔧 Key Features
 
@@ -46,6 +47,7 @@ This repository contains the design files and documentation for a **custom six-l
 - ✅ **EasyEDA and Altium Designer** files included
   - ⚠️ *Altium files are converted* and currently in **beta** — some traces or nets may require manual validation
 - ✅ **Bill of Materials (BOM)** file included
+![WhatsApp Image 2025-05-14 at 12 16 21_1bb49789](https://github.com/user-attachments/assets/dc8437bd-7d61-434b-ae24-e8bb1ce3da7c)
 
 ---
 
@@ -55,6 +57,7 @@ This repository contains the design files and documentation for a **custom six-l
 - **UART connection** supported over USB-C via CP2102N
 - **HUB75 display power** routed through onboard connector
 - **Audio amplifier** powered via dedicated **5V LDO rail**
+![image](https://github.com/user-attachments/assets/b8f2621b-d9a4-465f-aa26-9d2c8331f3f1)
 
 ---
 
@@ -74,12 +77,10 @@ This repository contains the design files and documentation for a **custom six-l
 - ✅ Bill of Materials (BOM)
 - ✅ Documentation of known GPIO conflicts (PSRAM / HUB75 overlap)
 - ✅ Sample firmware (optional)
-<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.21_d446c705.jpg"... -->
-<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.18_618250de.jpg"... -->
-<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.20_cf42233f.jpg"... -->
-<!-- Uploading "WhatsApp Video 2025-05-14 at 12.16.22_4bb164bc.mp4"... -->
-<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.21_1bb49789.jpg"... -->
----
+
+https://github.com/user-attachments/assets/fc8bfb41-cbdd-4a89-a90d-0a03506c137d
+
+
 
 ## 🔮 Future Plans
 
