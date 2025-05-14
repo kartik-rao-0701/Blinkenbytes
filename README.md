@@ -3,6 +3,7 @@
 This repository contains the design files and documentation for a **custom six-layer PCB** powered by the **ESP32-S3 microcontroller**. The board is designed for advanced **audio-visual applications** with HUB75 LED matrix displays, audio playback, and modern USB-C integration—all packed into a compact, highly optimized board.
 
 ---
+<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.19_8cd49088.jpg"... -->
 
 ## 🔧 Key Features
 
@@ -73,7 +74,11 @@ This repository contains the design files and documentation for a **custom six-l
 - ✅ Bill of Materials (BOM)
 - ✅ Documentation of known GPIO conflicts (PSRAM / HUB75 overlap)
 - ✅ Sample firmware (optional)
-
+<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.21_d446c705.jpg"... -->
+<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.18_618250de.jpg"... -->
+<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.20_cf42233f.jpg"... -->
+<!-- Uploading "WhatsApp Video 2025-05-14 at 12.16.22_4bb164bc.mp4"... -->
+<!-- Uploading "WhatsApp Image 2025-05-14 at 12.16.21_1bb49789.jpg"... -->
 ---
 
 ## 🔮 Future Plans
